@@ -2,7 +2,7 @@
 
 A deep dive into the **C++98** standard to understand the core mechanics of the language before moving to modern standards.
 
-This project was developed as part of the 42 School curriculum.
+This project was developed as part of the **42 School** curriculum.
 
 ### 🛠️ Core Concepts Learned
 
