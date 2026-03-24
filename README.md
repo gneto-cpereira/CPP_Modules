@@ -1,10 +1,10 @@
-# 💻 C++ Modules
+# C++ Modules
 
 A deep dive into the **C++98** standard to understand the core mechanics of the language before moving to modern standards.
 
 This project was developed as part of the **42 School** curriculum.
 
-### 🛠️ Core Concepts Learned
+### Core Concepts Learned
 
 - **Orthodox Canonical Class Form** (Default constructor, copy constructor, copy assignment operator, destructor).
     
@@ -19,7 +19,7 @@ This project was developed as part of the **42 School** curriculum.
 
 ---
 
-### 📂 Module Roadmap
+### Module Roadmap
 
 |**Module**|**Focus**|**Key Exercises**|
 |---|---|---|
@@ -36,7 +36,7 @@ This project was developed as part of the **42 School** curriculum.
 
 ---
 
-### 🚀 How to Run
+### How to Run
 
 Each exercise comes with its own `Makefile`. To compile and run an exercise:
 
@@ -65,7 +65,7 @@ Each exercise comes with its own `Makefile`. To compile and run an exercise:
     ```
     
 
-### 📋 Requirements
+### Requirements
 
 - **Compiler**: `c++`
     
